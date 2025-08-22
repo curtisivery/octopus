@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200" height="200" viewBox="-100 -100 200 200" xmlns="http://www.w3.org/2000/svg">
+    <rect width="200" height="200" x="-100" y="-100" fill="none" />
+    <g stroke="white" stroke-width="4" fill="none">
+        <!-- Hexagonal frame -->
+        <polygon points="0,-86.6 75,-43.3 75,43.3 0,86.6 -75,43.3 -75,-43.3" />
+
+        <!-- Central grid structure -->
+        <rect x="-30" y="-30" width="60" height="60" />
+        <line x1="-30" y1="-10" x2="30" y2="-10" />
+        <line x1="-30" y1="10" x2="30" y2="10" />
+        <line x1="-10" y1="-30" x2="-10" y2="30" />
+        <line x1="10" y1="-30" x2="10" y2="30" />
+
+        <!-- Diagonal interlinks -->
+        <line x1="-75" y1="43.3" x2="-30" y2="10" />
+        <line x1="75" y1="43.3" x2="30" y2="10" />
+        <line x1="-75" y1="-43.3" x2="-30" y2="-10" />
+        <line x1="75" y1="-43.3" x2="30" y2="-10" />
+
+    </g>
+</svg>

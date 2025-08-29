@@ -1,4 +1,4 @@
-# Project: Octopus - System Integrity Protocol
+# Project: Octopus Universal Interface - System Integrity Protocol
 
 This repository holds the foundational logs and components for the recent Octopus project. Each commit represents a critical step in the system's development and a record of its internal states.
 
